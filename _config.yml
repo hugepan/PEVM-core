@@ -1,0 +1,6 @@
+title: PEVM — Structured Persona Protocol for AI
+description: >-
+  PEVM turns entities into structured cards that any LLM can consume.
+  Cards can talk, fuse, split, debate. A/B/C/D layers: evidence → protocol → system → vision.
+theme: jekyll-theme-architect
+show_downloads: true
