@@ -3,6 +3,8 @@ layout: default
 title: PEVM — Structured Persona Protocol for AI
 ---
 
+![PEVM](https://img.shields.io/badge/pevm-active-green.svg)
+
 # PEVM: Structured Persona Protocol for AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
